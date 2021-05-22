@@ -25,17 +25,17 @@ ZOffice is a fully functional web application equipped with features such as rea
 Due to budget and time constraints, file sharing, video conference functions, and final deployment are postponed. 
 
 
-ZOffice development timeframe:
-Planning - 2 weeks
-Development - 1 week
-Debug & Deploy - 3 days
+ZOffice development timeframe:<br>
+Planning - 2 weeks<br>
+Development - 1 week<br>
+Debug & Deploy - 3 days<br>
 
-Technology Stack - MERN
-Front-end: HTML, CSS, Javascript, React, Redux, React-Bootstrap, Sass
-Back-end: Node, Express, MongoDB, REST, WebRTC, GraphQL
+Technology Stack - MERN<br>
+Front-end: HTML, CSS, Javascript, React, Redux, React-Bootstrap, Sass<br>
+Back-end: Node, Express, MongoDB, REST, WebRTC, GraphQL<br>
 
-My Role and the ZOffice Project Team
-Fiona Ho - Front-end & Backend Developer / Interaction Designer
-Victoria You - Front-end & Layout Developer
-Disha Shah - UX/UI Graphic Designer
-Cora Wan - Project Lead / Front-end & Backend Developer
+My Role and the ZOffice Project Team <br>
+Fiona Ho - Front-end & Backend Developer / Interaction Designer<br>
+Victoria You - Front-end & Layout Developer<br>
+Disha Shah - UX/UI Graphic Designer<br>
+Cora Wan - Project Lead / Front-end & Backend Developer<br>
